@@ -1,5 +1,10 @@
-# Team Number: Team-114
+
 # Link to the Live System : *http://plagiarismpython.com*
+
+## Tech Stack : 
+### Development and Framework : Java, Spring Boot, Angular, MongoDB, Maven  
+### Infrastructure and Deployment : AWS EC2, S3, Jenkins (Continuous Integration tool), SonarQube (Quality), Junits(Tesing)
+### Project Manageent: Jira, Agile Technologies, Scrum, 3 Sprints of 15 days for the entire project
 
 ## Links to YouTube (unlisted) videos (details follow): 
 [System Demo](https://youtu.be/RJgWdJvUYI4)
@@ -11,12 +16,9 @@
 ## Team Memebers: 
 
 1. Manthan Thakker 
-2. Mateo Kocaj
+2. Mateo Kocaj 
 3. Preethi Anbunathan
 4. Sakshi Tonwer
-
-
-
 
 
 ## System Setup steps
